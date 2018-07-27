@@ -27,7 +27,7 @@ two** steps again. Also, this is just a one-time setup.
     <https://repos.opensource.microsoft.com/MicrosoftDocs>
 
 3.  Request write access to [our repos](#our-repos) by joining the following group:
-    <https://github.com/orgs/MicrosoftDocs/teams/bacx-contribute/members>
+    <https://github.com/orgs/MicrosoftDocs/teams/bacx-contribute/join>
 
 > [!CAUTION]
 > You must print or save your recovery codes so that you can
