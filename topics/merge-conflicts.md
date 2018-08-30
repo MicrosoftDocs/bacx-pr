@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging Conflicts Can Be Tricky
+# A headline about merging goes here
 
-This is the sentence I have and I updated it again in the master branch.  
+No way! This should be changes in my conflict branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
