@@ -8,9 +8,9 @@ ms.author: buckg
 manager: renwe
 ---
 
-# Merging your conflicting files
+# Merging conflicting files is a pain
 
-I updated this sentence for the second time in the merge conflict branch.  
+I updated this sentence for the third time in the merge conflict branch.  
   
 In go to **Analytics** > **Conversations** to access the conversations page.  
 
