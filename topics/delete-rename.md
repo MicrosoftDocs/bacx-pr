@@ -10,6 +10,8 @@ manager: "renwe"
 
 # Deleting or renaming topic files
 
+I'm making a test change to this topic.
+
 ## Deleting topic files
 
 Deleting a topic in GitHub will cause any existing links to the topic to error on docs.microsoft.com. To give customers a better experience, we can put redirections in place.
