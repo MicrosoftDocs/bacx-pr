@@ -3,3 +3,8 @@ To request editing, use the process you currently use. Tonya and Renee will tria
 To ask questions when you can’t find what you need, contact the right person below or use the pertinent alias below. 
 
 Aliases: 
+
+
+| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes
+|----------------------------------------------------------------------|----------------|----------------------|----------------|
+| F&O | Tonya, Chris | Marge| Chris | Includes task guides.
