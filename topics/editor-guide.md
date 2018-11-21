@@ -12,6 +12,7 @@ To ask questions when you can’t find what you need, contact the right person b
 
 **Aliases**: 
 BACX CE Editors: crmed 
+
 Tonya Fehr: tfehr 
 
 
@@ -52,7 +53,7 @@ When you copy edit a topic or topics, read it from the point of view of a novice
 Copy editors edit for:
 
 * Grammar, punctuation, and spelling.
-* Adherence to [Microsoft Writing Style Guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700), [Dynamics 365 Writing Toolkit](https://microsoft.sharepoint.com/teams/DynDoc/AXContentResources/SitePages/Create new content.aspx), [Cloud Style Guide](https://worldready.cloudapp.net/StyleGuide/Read?id=2696), and (coming soon) Dynamics 365 Style Guide.
+* Adherence to [Microsoft Writing Style Guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700), [Dynamics 365 Writing Toolkit](https://microsoft.sharepoint.com/teams/DynDoc/AXContentResources/SitePages/Writing%20resources%20%26%20best%20practices.aspx), [Cloud Style Guide](https://worldready.cloudapp.net/StyleGuide/Read?id=2696), and (coming soon) Dynamics 365 Style Guide.
 
 ## Dev edits
 to come
