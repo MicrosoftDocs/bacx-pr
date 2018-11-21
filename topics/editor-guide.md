@@ -15,37 +15,44 @@ BACX CE Editors: crmed
 Tonya Fehr: tfehr 
 
 
-| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes
-|----------------------------------------------------------------------|----------------|----------------------|----------------|
-| F&O | Tonya, Chris | Marge| Chris | Includes task guides.
-| CE | Renee, Laurie | Marge| N/A | None.
-| BC | Tonya, Chris | Marge| Chris | None. 
-| Retail | Tonya, Chris | Marge| Chris | 
-| Talent | Tonya, Chris | Marge| Chris | 
-| PSA | Tonya, Chris | Marge| N/A | 
-| PowerApps | Renee, Laurie | Marge| N/A | 
-| PowerBI | Renee, Laurie | Marge| N/A | 
-| Flow | Renee, Laurie | Marge| N/A | 
-| Release Notes | Renee, Laurie | Laurie| Laurie | 
-| MS Learn | TBH, Chris | TBH| Margo | 
-| Learning paths | Renee, Chris | Marge| N/A | 
-| Video scripts | Renee, Laurie | Laurie| N/A | 
+| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes  |
+|----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
+| F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
+| CE | Renee, Laurie | Marge| N/A |  |
+| BC | Tonya, Chris | Marge| Chris |  |
+| Retail | Tonya, Chris | Marge| Chris |  |
+| Talent | Tonya, Chris | Marge| Chris |  |
+| PSA | Tonya, Chris | Marge| N/A |  |
+| PowerApps | Renee, Laurie | Marge| N/A |  |
+| PowerBI | Renee, Laurie | Marge| N/A |  |
+| Flow | Renee, Laurie | Marge| N/A |  |
+| Release Notes | Renee, Laurie | Laurie| Laurie |  |
+| MS Learn | TBH, Chris | TBH| Margo |  |
+| Learning paths | Renee, Chris | Marge| N/A |  |
+| Video scripts | Renee, Laurie | Laurie| N/A |  |
 
 ## Request edits
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
 F&O, Business Central, Talent, Retail: 
-[Fin & Ops]: (https://msdyneng.visualstudio.com/FinOps) 
-[Triple Crown]: (https://dev.azure.com/mseng/) 
+
+Fin & Ops: https://msdyneng.visualstudio.com/FinOps 
+
+Triple Crown: https://dev.azure.com/mseng/ 
 
 Customer Engagement, Power Apps, Flow, Power Platform: [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)
-Query: [Editing requests] (https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_queries?id=721d12f4-d533-4f01-802f-c1743d8edc51&_a=query)
+
+Query: [Editing requests](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_queries?id=721d12f4-d533-4f01-802f-c1743d8edc51&_a=query)
 
 ## Levels of editing
-to come
+Editing is divided into two categories, depending on the level of touch required for specific deliverables: developmental (dev) edit and copy edit.
 
 ## Copy edits
-to come
+When you copy edit a topic or topics, read it from the point of view of a novice. You do not need to put yourself in the perspective of the specific audience for that content. You are looking for basic understanding and guideline adherence.
+Copy editors edit for:
+
+* Grammar, punctuation, and spelling.
+* Adherence to [Microsoft Writing Style Guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700), [Dynamics 365 Writing Toolkit](https://microsoft.sharepoint.com/teams/DynDoc/AXContentResources/SitePages/Create new content.aspx), [Cloud Style Guide](https://worldready.cloudapp.net/StyleGuide/Read?id=2696), and (coming soon) Dynamics 365 Style Guide.
 
 ## Dev edits
 to come
