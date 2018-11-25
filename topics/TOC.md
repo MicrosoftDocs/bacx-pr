@@ -19,5 +19,6 @@
 ### [Authoring process](rn-content-workflow.md)
 ### [Topic types and their requirements](rn-topics.md)
 ### [Do's and don'ts in the Release Notes](rn-dos-donts.md)
+### [Style tips for release notes](style-tips.md)
 ### [Checklist: Before your merge your PR](rn-checklist.md)
 ## [Editorial guide](editor-guide.md)
