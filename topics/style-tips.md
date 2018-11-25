@@ -36,7 +36,7 @@ Use  the title of the article or page and add a hyperlink. Don’t use the URL a
 
 ### Localization tip
 
-Remove the language portion of a URL: /en-us/  This helps localizers. But test the link to make sure it still works. 
+Remove the language portion of a URL: **/en-us/**  This helps localizers. But test the link to make sure it still works. 
 
 ## Images
 
@@ -65,9 +65,9 @@ In the image path, enter information about an image both within the straight bra
 Use bold for the key word or term, followed by a non-bold colon. Example: 
 
 >  The features include:
->  - Queues: A redesigned experience helps to prioritize and monitor the progress of the assigned work.
->  - Subjects: A powerful mechanism to classify cases, knowledge base articles, products, and sales literature.
->  - Case settings: Links cases together, enabling better response and tracking for common issues.
+>  - **Queues**: A redesigned experience helps to prioritize and monitor the progress of the assigned work.
+>  - **Subjects**: A powerful mechanism to classify cases, knowledge base articles, products, and sales literature.
+>  - **Case settings**: Links cases together, enabling better response and tracking for common issues.
 
 ### Months 
 
