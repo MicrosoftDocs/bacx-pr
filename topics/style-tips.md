@@ -26,7 +26,7 @@ Don’t skip heading levels within a topic. The first level should always be a h
 ### Page titles
 Use  the title of the article or page and add a hyperlink. Don’t use the URL alone as your link, and don’t use “here” as a link – let readers know what you want them to see. Example:
 
-  For instructions on how to set up the duplicate detection job, see [Run system jobs to detect duplicates](run-bulk-system-jobs-detect-duplicate-records.md).
+> For instructions on how to set up the duplicate detection job, see [Run system jobs to detect duplicates](run-bulk-system-jobs-detect-duplicate-records.md).
 
 ### External links
 
