@@ -1,8 +1,17 @@
 ---
-
+title: Style tips for release notes
+ms.date: 11/26/2018
+ms.service: 
+ms.topic: article
+author: almostdunh
+ms.author: v-ladunh
+ms.reviewer: renwe
 
 ---
 
+# Style tips for release notes
+
+Here are style tips to help you as you create and develop your release notes topics for the April '19 release.
 
 ## Topic organization  
 
@@ -44,7 +53,7 @@ Your image path must match the image file name exactly, including capitalization
 
 In the image path, enter information about an image both within the straight brackets and again in the quotation marks. This provide alt-text and hover text. If you want a caption to appear beneath the image, use text in italics below the image path. Example:
 
-  ![ Schedule assistant displays results on the hour as part of interval scheduling](media/filters-share.png “Schedule assistant displays results on the hour as part of interval scheduling”)
+  ![Schedule assistant displays results on the hour as part of interval scheduling](media/filters-share.png “Schedule assistant displays results on the hour as part of interval scheduling”)
 
   *Schedule assistant displays results on the hour as part of interval scheduling*
 
