@@ -10,9 +10,9 @@ To ask questions when you can’t find what you need, contact one of these alias
 
 **Aliases**: 
 
-BACX CE Editors: crmed 
+BACX CE Editors: [crmed](mailto:crmed@microsoft.com?subject=Style) 
 
-Tonya Fehr: tfehr 
+Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com) 
 
 **Editing contacts for specific doc sets/projects**
 
