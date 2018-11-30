@@ -14,6 +14,8 @@ Our content is hosted on GitHub. Complete the following steps to get started
 with contributing or editing content in our docs repos on
 GitHub.
 
+## Create GitHub account and join our org
+
 > [!IMPORTANT]  
 > Folks who already contribute content to our repos don’t have to perform the **first
 two** steps again. Also, this is just a one-time setup.
@@ -21,7 +23,8 @@ two** steps again. Also, this is just a one-time setup.
 1.  [Create a GitHub account](https://github.com/join) using your
     **\@Microsoft.com** email with 2-Factor Auth enabled.  
     If you already have a GitHub account, ensure that you change/set the primary
-    email ID as your **\@Microsoft.com** email.
+    email ID as your **\@Microsoft.com** email.<br/>
+    You must ensure that your GitHub profile info adheres to the profile requirements listed in the next section. 
 
 2.  Join the **MicrosoftDocs** org:
     <https://repos.opensource.microsoft.com/MicrosoftDocs>
@@ -34,6 +37,17 @@ two** steps again. Also, this is just a one-time setup.
 access your account in the event you lose access to your device and cannot
 receive two-factor authentication codes. Your recovery codes are available here:
 <https://github.com/settings/auth/recovery-codes>
+
+## GitHub profile requirements
+
+As a Microsoft employee, you *must* clearly identify yourself as one. Set up your GitHub profile as follows:
+- **Profile picture**: A picture of you (required).
+- **Name**: Your first and last name (required).
+- **Public email**: Your Microsoft email address (optional).
+- **Company**: "Microsoft Corporation" or "@Microsoft" (required).
+- **Location**: Your location (optional).
+
+You can update your GitHub profile info here: <https://github.com/settings/profile>
 
 ## Our repos
 
