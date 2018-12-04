@@ -104,13 +104,14 @@ It's important to write a strong overview that outlines all the investments for 
 
 ## Topic metadata
 
-- Author- PM’s GitHub user name
+- author- PM’s GitHub user name
 - ms.author - PM alias
 - ms.reviewer – CP owner alias
 - ms.manager – not needed. Don’t use.
-- Description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
-- Page title - 
-- Topic type – For almost all topics, use “article”. Exceptions: Overviews use “overview” and planned-features uses “summary”. 
+- description – Write a good description loaded with keywords. Minimum 75, max 300 characters including spaces. Per APEX, displays on the search page inline with the article date stamp. If your intro para describes your article's intent, you can use it here edited for length.
+- title (page title) - This is the page title that will appear in search results and if a users hovers their mouse over the browser tab. This should be similar to the H1 heading in the topic, but not the same per SEO instructions. Goal is for page titles to be 59 char or less, including spaces. 
+- ms.type – For almost all topics, use the topic type “article”. Exceptions: overviews use “overview” and planned-features uses “summary”. 
 - ms.date – 01/21/2019 (always use mm/dd/yyyy format)
 - ms.service – business-applications
+- ms.assetid: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx (this is needed only for topics generated with the Flow/PA authoring tool, and not for topics authored directly in GitHub.)
 
