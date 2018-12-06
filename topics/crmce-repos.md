@@ -7,7 +7,7 @@ akey: avalue
 | Description                                        | GitHub URL                                                           | Content URL | Loc info |
 |----------------------------------------------------|----------------------------------------------------------------------|-------------|
 | AI - Private                                       | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                  | https://docs.microsoft.com/dynamics365/ai | Not all AI funded for Loc |
-| Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model                   | https://docs.microsoft.com/common-data-service | English only |
+| Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model-pr                   | https://docs.microsoft.com/common-data-model | English only |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr | https://docs.microsoft.com/dynamics365/customer-engagement | Loc by BAG IE CE |
 | Customer Engagement - Public                       | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement    | https://docs.microsoft.com/dynamics365/customer-engagement | Feedback English only |
 | Flow - Private                                     | https://github.com/MicrosoftDocs/flow-docs-pr                        | https://docs.microsoft.com/flow | Loc by APEX |
