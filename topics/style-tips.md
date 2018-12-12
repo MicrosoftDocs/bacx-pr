@@ -36,7 +36,7 @@ Use  the title of the article or page and add a hyperlink. Don’t use the URL a
 
 ### Localization tip
 
-Remove the language portion of a URL: **/en-us/**  This helps localizers. But test the link to make sure it still works. 
+Remove the language portion of a URL: **/en-us/**  and then test the link to make sure it still works. Our users who read the Release Notes in other languages will appreciate not being directed to English topics. Also, if you put "/en-us/" when it's not needed, localization vendors have to touch every link to place the correct language code. This costs money we don't need to spend 99% of the time. 
 
 ## Images
 
