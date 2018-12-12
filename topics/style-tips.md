@@ -52,7 +52,7 @@ Your image path must match the image file name exactly, including capitalization
 
 ### Captions 
 
-In the image path, enter information about an image both within the straight brackets and again in the quotation marks. This provide alt-text and hover text. If you want a caption to appear beneath the image, use text in italics below the image path. Example:
+In the image path, enter information about an image both within the straight brackets and again in the quotation marks. This provides alt-text and hover text. If you want a caption to appear beneath the image, use text in italics below the image path. Example:
 
 > ![Schedule assistant displays results on the hour as part of interval scheduling](media/filters-share.png “Schedule assistant displays results on the hour as part of interval scheduling”)
 
