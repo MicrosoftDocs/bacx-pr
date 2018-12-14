@@ -1,5 +1,3 @@
-**Still a Work in Progress**
-
 # Doc set assignments
 
 Here are the editorial ownership areas for our BACX doc sets and projects. 
@@ -23,6 +21,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 | BC | Tonya, Chris | Marge| Chris |  |
 | Retail | Tonya, Chris | Marge| Chris |  |
 | Talent | Tonya, Chris | Marge| Chris |  |
+| Rushmore | Tony | Marge| N/A |  |
 | PSA | Tonya, Chris | Marge| N/A |  |
 | PowerApps | Renee, Laurie | Marge| N/A |  |
 | PowerBI | Renee, Laurie | Marge| N/A |  |
