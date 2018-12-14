@@ -21,7 +21,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 | BC | Tonya, Chris | Marge| Chris |  |
 | Retail | Tonya, Chris | Marge| Chris |  |
 | Talent | Tonya, Chris | Marge| Chris |  |
-| Rushmore | Tony | Marge| N/A |  |
+| Rushmore | Tony | Tony| N/A |  |
 | PSA | Tonya, Chris | Marge| N/A |  |
 | PowerApps | Renee, Laurie | Marge| N/A |  |
 | PowerBI | Renee, Laurie | Marge| N/A |  |
