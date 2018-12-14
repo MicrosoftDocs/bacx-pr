@@ -35,7 +35,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 ## Request edits
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
-| Team                             | Method of Request                     | URL  |
+| Team                             | Method of Request                     |
 | --------------------- | ----------------------- | ----- |
 | F&O, Business Central, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 |                                           | [Triple Crown tasks](https://dev.azure.com/mseng)   |
