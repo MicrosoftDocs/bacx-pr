@@ -28,7 +28,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 | PowerBI | Renee, Laurie | Marge| N/A |  |
 | Flow | Renee, Laurie | Marge| N/A |  |
 | Release Notes | Renee, Laurie | Laurie| Laurie |  |
-| MS Learn | TBH, Chris | TBH| Margo |  |
+| MS Learn | Julie, Chris | Julie| Margo |  |
 | Learning paths | Renee, Chris | Marge| N/A |  |
 | Video scripts | Renee, Laurie | Laurie| N/A |  |
 
@@ -37,10 +37,10 @@ When you are ready for your content to be edited, log a new request through your
 
 | Team                             | Method of Request                     | URL  |
 | --------------------- | ----------------------- | ----- |
-| F&O, Business Central, Talent, Retail     | Fin & Ops         |https://msdyneng.visualstudio.com/FinOps  |
-|                                           | Triple Crown      | https://dev.azure.com/mseng   |
-| Customer Engagement, Power Apps, Flow, Power Platform | Editing Task Request|https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae      |
-|                                                       |Query: Editing Requests|https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_queries?id=721d12f4-d533-4f01-802f-c1743d8edc51&_a=query|
+| F&O, Business Central, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
+|                                           | [Triple Crown tasks](https://dev.azure.com/mseng)   |
+| Customer Engagement, Power Apps, Flow, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
+|                                                       |Query: [Editing query](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_queries?id=721d12f4-d533-4f01-802f-c1743d8edc51&_a=query|)
 
 
 
@@ -85,7 +85,7 @@ Dev editors edit for:
 | Docs with major updates | Dev edit | Chris, Laurie  |    |
 | Updated white papers| Copy edit| Marge |   |
 | Docs with minor updates| Copy edit | Marge |     |
-| MS Learn | Dev edit | TBH, Chris |     |
+| MS Learn | Dev edit | Julie, Chris |     |
 | Learning paths | Dev edit | Renee, Laurie, Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
 
