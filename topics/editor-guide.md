@@ -40,7 +40,7 @@ When you are ready for your content to be edited, log a new request through your
 | F&O, Business Central, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
 | Customer Engagement, Power Apps, Flow, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
-|                                                       |Query: [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_queries?id=721d12f4-d533-4f01-802f-c1743d8edc51&_a=query)
+|                                                       |Query: [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
 
 
 
