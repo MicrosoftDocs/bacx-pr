@@ -18,7 +18,7 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 |----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
 | F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
 | CE | Renee, Laurie | Marge| N/A |  |
-| BC | Resource needed | Marge| Chris |  |
+| BC | Resource needed | Marge| No resource |  |
 | Retail | Tonya, Chris | Marge| Chris |  |
 | Talent | Tonya, Chris | Marge| Chris |  |
 | Rushmore | Tony | Tony| N/A |  |
