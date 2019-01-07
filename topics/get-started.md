@@ -55,6 +55,7 @@ These are the repos where we host our content:
 
 | **Product/Feature**              | **Repo URL**                                                           |
 |----------------------------------|------------------------------------------------------------------------|
+|Common Data Model                 | https://github.com/MicrosoftDocs/common-data-model-pr                  |
 | Dynamics 365 AI                  | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                    |
 | Dynamics 365 Hub                 | https://github.com/MicrosoftDocs/dynamics365hubpages                   |
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
