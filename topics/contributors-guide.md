@@ -30,6 +30,7 @@ team can contribute to our official content on docs.microsoft.com for following 
 - Microsoft Flow
 - PowerApps
 - Power platform
+- Common Data Model
 
 > [!IMPORTANT]
 > - **Folks who already contribute to Release Notes repo**: You are all set to contribute; you don't need to request additional access. Jump on to [Work directly in our repos](work-repos.md)
