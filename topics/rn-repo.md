@@ -10,8 +10,8 @@ ms.author: "renwe"
 
 The root of the [release notes repo](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes) contains an **articles** folder, which contains: 
 
-- **April19** folder is in a separate branch until it is published for the first time in January: [april-19](https://github.com/MicrosoftDocs/BusinessApplication-ReleaseNotes/tree/april-19/articles/April19)
-	- In the **articles** folder, see the **April19** folder, which is for features that will release between April 2019 and September 2019 (inclusive)
+- **April19** folder, which is for features that will release between April and September 2019 and for preview features going into preview between February and July 2019. 
+	- For any features held back for the 2/21 disclosure moment, don't use the master branch. Use the **tierl-042019** branch. 
 - **October18** folder, which is for features that will release between October 2018 and March 2019 (inclusive)
 - **April18** folder, which is for features that released between April 2018 and September 2018 (inclusive)
 
