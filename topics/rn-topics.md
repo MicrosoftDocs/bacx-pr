@@ -1,6 +1,6 @@
 ---
 title: "Topic types and their requirements"
-ms.date: 10/29/2018
+ms.date: 01/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
@@ -39,11 +39,15 @@ Also check out these great examples of each type:
   - the link from planned-features.md to the feature topic
   - the link (if any) from change-history to the feature topic
 - Ensure that the description tag follows the same guidelines as other topics do for SEO, etc.
-- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, screen shots have the div class for borders, etc.
+- Ensure that the body of the topic (everything after the H1) meets the same guidelines as other topics do: no PII, minimum resolution for screen shots is 1920, etc.
 - Ensure that toc.md shows features in the same sequence as planned-features.md.
 
 If you are using the Flow/PA authoring tool, these are additional guidelines for you:
 - If you are the CP Owner, don’t update any metadata tags except title and description.
+
+> [!NOTE]
+> As of January 2019, we are not adding border tags to images in release notes only. This is because the tags result in a non-caption style and strip the alt-text in the PDF. This might be resolved at some point, but for now we should not add border tags. We will work around the tags already in release notes topics.
+
 
 ## Summary of what's new (planned-features.md) topics 
 
