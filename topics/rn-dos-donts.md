@@ -20,4 +20,4 @@ There are some things that we author differently in the Release Notes from other
 
 ## Do's
 - Do remember to put changes in the Change history (change-history.md) topic. See the comments in the topic for formatting you can copy and paste.
-- Do remember to update the TOC file when you add new topics. - 
+- Do remember to update the TOC file when you add new topics.  
