@@ -1,6 +1,6 @@
 ---
 title: Style tips for release notes
-ms.date: 11/26/2018
+ms.date: 01/21/2019
 ms.service: 
 ms.topic: article
 author: almostdunh
@@ -39,6 +39,8 @@ Use  the title of the article or page and add a hyperlink. Don’t use the URL a
 Remove the language portion of a URL: **/en-us/**  and then test the link to make sure it still works. Our users who read the Release Notes in other languages will appreciate not being directed to English topics. Also, if you put "/en-us/" when it's not needed, localization vendors have to touch every link to place the correct language code. This costs money we don't need to spend 99% of the time. 
 
 ## Images
+
+Don't add border tags to images ([!div class="mx-imgBorder"]) in release notes. When the release notes are converted to PDF, the tags result in a non-caption style and strip the alt-text from the PDF.
 
 ### Names in screenshots 
 
