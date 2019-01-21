@@ -1,6 +1,6 @@
 ---
 title: "Do's and don'ts in the Release Notes"
-ms.date: 10/29/2018
+ms.date: 01/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
@@ -15,10 +15,9 @@ There are some things that we author differently in the Release Notes from other
 - Don't use HTML formatting in tables. 
 - Don't use bookmarks as links. In the PDF, they will not go to the correct place. 
 - Don't use referential links for any links except within the current Release Notes version you are working in. For example, referential links to other Release Notes break in the PDF. 
-
+- Don't add border tags to images ([!div class="mx-imgBorder"]). The tags result in a non-caption style and strip the alt-text from the PDF during the conversion process. 
 
 
 ## Do's
 - Do remember to put changes in the Change history (change-history.md) topic. See the comments in the topic for formatting you can copy and paste.
-- Do remember to update the TOC file when you add new topics. 
-- 
+- Do remember to update the TOC file when you add new topics. - 
