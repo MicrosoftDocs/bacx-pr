@@ -10,13 +10,13 @@
 ### [Legacy: Fork our repo](legacy-fork-repo.md) 
 ### [Public pull-request contribution guide](public-pr-contribution-guide.md)
 #### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
-## [Release plans lifecycle guide]
+## Release plans lifecycle guide
 ### [Overview](rn-guide.md)
 ### [Get started](tool-get-started.md)
 ### [Production schedule](production-schedule.md)
 ### [Quick-reference guide](quick-reference-guide.md)
 ### [FAQs](Tool-FAQ.md)
-### [Content development]
+### Content development
 #### [Workflow](rn-content-workflow.md)
 #### [Best practices and requirements](rn-dos-donts.md)
 #### [Images and screenshots](images-and-screenshots.md)
@@ -33,10 +33,10 @@
 ### [Release plan repos](rn-repo.md)
 ### [Merging a PR](rn-checklist.md)
 ### [FAQs](GitHub-FAQ.md)
-## [Style guide]
+## Style guide
 ### [Tips and references](style-tips.md)
 ### [Fictitious names and addresses](fictitious-names.md)
-## [Editor's guide]
+## Editor's guide
 ### [Overview](editor-guide.md)
 ### [Types of edits](types-of-edits.md)
 ### [Editing blogs](editing-blogs.md)
