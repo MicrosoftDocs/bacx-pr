@@ -20,8 +20,7 @@
 #### [Best practices and requirements](rn-dos-donts.md)
 #### [Images and screenshots](rn-images-and-screenshots.md)
 ### Release planner app
-#### [Overview of features](app-overview.md)
-#### [Get started](tool-get-started.md)
+#### [Overview and getting started](tool-get-started.md)
 #### [Create new entry](tool-create-new-entry.md)
 #### [Add images](add-images.md)
 #### [App access & POCs](app-access.md)
