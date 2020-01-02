@@ -11,7 +11,7 @@ ms.author: "renwe"
 
 This guide provides information on how PMs, writers, content strategists, editors, and other team members can contribute to our official release plans content on [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/).
 
-![Release plans lifecycle flow](lifecycle-flow.PNG "Release plans lifecycle flow")
+![Release plans lifecycle flow](media/lifecycle-flow.PNG "Release plans lifecycle flow")
 
 Use this guide for specifics about the release plans, including [differences](rn-dos-donts.md) from the Contributors Guide. 
 
