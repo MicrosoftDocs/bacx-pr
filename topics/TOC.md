@@ -31,7 +31,7 @@
 #### [Best practices](rn-gh-best-practices.md)
 #### [Dos and Don'ts](rn-gh-dos-and-donts.md)
 #### [Merging & approving PRs](rn-gh-merging-approving-prs.md)
-## GitHub
+## GitHub guide
 ### [Review links](review-links.md)
 ### [Permission levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
