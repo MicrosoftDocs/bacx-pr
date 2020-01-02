@@ -1,4 +1,4 @@
-# [Business Applications Content Experience Team (BACX)](index.md)
+# [Business Applications Content Experience Team](index.md)
 ## [Contributors guide for Docs](contributors-guide.md)
 ### [Get started](get-started.md)
 ### [Work directly in our repos](work-repos.md)
