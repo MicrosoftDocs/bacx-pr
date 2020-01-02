@@ -26,12 +26,16 @@
 #### [Add images](add-images.md)
 #### [App access & POCs](app-access.md)
 #### [Best practices and requirements](tool-best-practices.md)
+### Release plans in GitHub
+#### [Repos and POCs](rn-repo.md)
+#### [Best practices](rn-gh-best-practices.md)
+#### [Dos and Don'ts](rn-gh-dos-and-donts.md)
+#### [Merging & approving PRs](rn-gh-merging-approving-prs.md)
 ## GitHub
 ### [Review links](review-links.md)
 ### [Permission levels](permission-levels.md)
 ### [Repos managed by crmce](crmce-repos.md)
-### [Release plan repos](rn-repo.md)
-### [Merging a PR](rn-checklist.md)
+### [Cheat sheet](gh-cheat-sheet.md)
 ### [FAQs](GitHub-FAQ.md)
 ## Style guide
 ### [Tips and references](style-tips.md)
