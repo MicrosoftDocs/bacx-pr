@@ -12,7 +12,6 @@
 #### [Guide for Customer-Engagement repository](public-pr-contribution-guide-ce.md)
 ## Release plans lifecycle guide
 ### [Overview](rn-guide.md)
-### [Get started](tool-get-started.md)
 ### [Production schedule](production-schedule.md)
 ### [Quick-reference guide](quick-reference-guide.md)
 ### [FAQs](Tool-FAQ.md)
@@ -22,6 +21,7 @@
 #### [Images and screenshots](images-and-screenshots.md)
 ### Release planner app
 #### [Overview of features](app-overview.md)
+#### [Get started](tool-get-started.md)
 #### [Create new entry](tool-create-new-entry.md)
 #### [Add images](add-images.md)
 #### [App access & POCs](app-access.md)
