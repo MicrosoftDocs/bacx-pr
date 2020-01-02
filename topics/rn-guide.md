@@ -44,10 +44,10 @@ With the **2019 release wave 2 plans**, we implemented the following changes:
 
 | Feature | Notes | PDF |
 | -- | -- | -- |
-| **[Dynamics 365 release wave 2 plan](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/)** | Updates are pushed to GitHub from the tool and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | Published regularly. |
-| **[Power Platform release wave 2 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/)** | Updates are pushed to GitHub from the tool and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | The PDF is updated regularly. |
-| **[April '19 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | The PDF no longer is being updated. |
-| **[October '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | The PDF no longer is being updated.|
-| **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | The PDF no longer is being updated. | 
+| **[Dynamics 365 release wave 2 plan](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/)** | Updates are pushed to GitHub from the tool and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | Updated regularly. |
+| **[Power Platform release wave 2 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/)** | Updates are pushed to GitHub from the tool and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | Updated regularly. |
+| **[April '19 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | No longer updated. |
+| **[October '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | No longer updated. |
+| **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)** | Updates are made directly in GitHub and published regularly. If you merge changes to master, they will be picked up with the next publish on Docs. | No longer updated. | 
 
 
