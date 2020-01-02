@@ -11,7 +11,7 @@ ms.author: "renwe"
 We author some things differently in the release plans than in other docs. The differences are necessary because we create a custom PDF from the Markdown files, and this presents specific conversion issues. Because it is very time-consuming to produce a PDF of 350 pages or more, we limit certain functionality to avoid manual fixes in the PDF version. 
 
 ## Current release plans
-The following sections describe the **dos and don'ts** for release plans from 2019 release wave 2 and current 2020 release wave 1 plans. 
+The following sections describe the **dos and don'ts** for release plans from 2019 release wave 2 and later. 
 
 ### Dos
 | Do | Note |
