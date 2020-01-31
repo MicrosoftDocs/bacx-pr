@@ -8,16 +8,16 @@ ms.author: "renwe"
 ---
 # Authoring process
 
-Our **wave 2** release plans are created and updated in the Release Planner Tool and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*
+All release plans from **2019 wave 2** on are created and updated in the Release Planner App and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*
 
 
-## Release Planner Tool
+## Release Planner App
 
 <!--Should they be called PMs, writers, or doc owners? -->
 
-To create or update release plans for wave 2 or later, **PMs** should work in the [Release Planner Tool](https://aka.ms/bagreleasenotes). 
+To create or update release plans for wave 2 or later, **PMs** should work in the [Release Planner App](https://aka.ms/bagreleasenotes). 
 
-For guidance on using the tool, see these resources (available under Resources in the left navigation pane of the tool):
+For guidance on using the app, see these resources (available under Resources in the left navigation pane of the tool):
 - [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=RWW9laMl10g) 
 
 - [Demo video](https://msit.microsoftstream.com/video/c78b4dec-e4c3-4cd9-b827-c6535c11757a?list=studio)
