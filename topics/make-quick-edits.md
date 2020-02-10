@@ -8,10 +8,9 @@ ms.author: "kvivek"
 manager: "annbe"
 ---
 
-# Make quick edits to a topic
+# Make quick edits to a topic (Sample Chage)
 
-This is helpful if you are looking to make quick edits to a topic, and don't want to spend time finding the topic in our GitHub repo. Also, this does not require you to install any tools on your PC; all the work can be done using the browser! 
-
+This is helpful if you are looking to make qcsadbncasljcbljascnklacn
 1. Ensure you have completed steps in [Get started](get-started.md).
  
 2. Identify the topic that you want to edit on the docs site. For example:
