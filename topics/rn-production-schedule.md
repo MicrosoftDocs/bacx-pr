@@ -15,7 +15,7 @@ The production schedule can be found [here](https://msit.powerbi.com/groups/fce5
 
 # Late submission guidelines
 
-Our goal is to publish our release plans in a reliable cadence. It builds customer trust, and ensure that the right information is release at the right time. If deadlines slip, please see below. 
+Our goal is to publish our release plans in a reliable cadence. It builds customer trust, and ensures that the right information is released at the right time. If deadlines slip, the following process will be adhered to:
 
 1. Weekly train/regular update
   
