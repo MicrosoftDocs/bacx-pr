@@ -1,5 +1,5 @@
 ---
-title: "Production schedule"
+title: "Quick-reference guide"
 ms.date: 1/2/2020
 ms.service: 
 ms.topic: "conceptual"
@@ -7,7 +7,7 @@ author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
 
-# Production schedule
+# Quick-reference guide
 
 The Release plans are regularly updated and published to [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/). 
 
