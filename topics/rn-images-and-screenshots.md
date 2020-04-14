@@ -26,13 +26,13 @@ Images are an important part of the release plans. They provide visual context f
 
 - Use images with clear content if its meant to be readable. 
 
-# Image Don'ts
+## Image Don'ts
 
 - Don't use copyrighted images. 
 - Don't submit an image unless you are have confirmed that the information it contains is allowed to be seen by the public. 
 - Don't take screenshots of your entire desktop if it's not pertitnent to the image. 
 
-# GIFs
+## GIFs
 
 - GIFs are being used more often as a way to enhance the feature information, but they come with their own considerations.
   - They cannot auto-loop. They must display once, and if the customer wants to see it again, they must refresh the screen. This is an accessbility issue. 
