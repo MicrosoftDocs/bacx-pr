@@ -18,7 +18,7 @@
 ### Content development
 #### [Workflow](rn-content-workflow.md)
 #### [Best practices and requirements](rn-dos-donts.md)
-#### [Images and screenshots](rn-images-and-screenshots.md)
+#### [Images, screenshots, and GIFs](rn-images-and-screenshots.md)
 ### Release planner app
 #### [Overview](tool-get-started.md)
 #### [Create new entry](tool-create-new-entry.md)
