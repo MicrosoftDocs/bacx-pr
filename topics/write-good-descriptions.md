@@ -21,6 +21,8 @@ The meta description is an article summary that displays under page titles on th
 - Write key concepts at the head of the description. 
 - Optional: Include a CTA (call to action) in the meta description.
     Example from H&R Block website (CTA in italics): “Not sure if your dependent children are required to file taxes? *Learn more about tax rules for children with the experts at H&R Block.*”
+- Optional: To help users identify that this article is for this service, add a shortform of the product name to the description. This is useful if the search results include content for multiple services, and the title is too long due to long product names.
+    Example from BC (shortform of product name in italics): "You can export your financial reports and business intelligence data *from Business Central* to Excel, or open your data in Excel."
 
 ## Meta description examples
 
