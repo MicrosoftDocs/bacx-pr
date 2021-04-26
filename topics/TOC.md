@@ -20,19 +20,19 @@
 ## Release plans guide
 ### [Overview](rn-guide.md)
 ### [Production schedule](rn-production-schedule.md)
-### [Quick-reference guide](rn-quick-reference-guide.md)
-### [FAQs](Tool-FAQ.md)
 ### Content development
 #### [Workflow](rn-content-workflow.md)
 #### [Best practices and requirements](rn-dos-donts.md)
 #### [Images, screenshots, and GIFs](rn-images-and-screenshots.md)
-### Release planner app
+### Contributor's form
+### BACX Owner's form
+#### [Quick-reference guide](rn-quick-reference-guide.md)
+#### [FAQs](Tool-FAQ.md)
 #### [Overview](tool-get-started.md)
 #### [Create new entry](tool-create-new-entry.md)
 #### [Generate review document](generate-review-document.md)
 #### [Add images](add-images.md)
 #### [Best practices and requirements](tool-best-practices.md)
-### Release plans in GitHub
 #### [Repos and POCs](rn-repo.md)
 #### [Best practices](rn-gh-best-practices.md)
 #### [Dos and Don'ts](rn-gh-dos-and-donts.md)
