@@ -14,7 +14,7 @@ The process is simple:
 1.	Go to the Release Wave in the left nav.
 2.	Select the wave you wish to review (ex: 2020 wave 1).
 
-![Steps 1 and 2](media/steps-1-2.png "Steps 1 and 2")
+![Steps 1 and 2](media/Steps-1-2.png "Steps 1 and 2")
 
 3.	Select “Generate Document” on the top of the results box. 
 4.	The products for that wave will appear. Select the products you wish you review. 
