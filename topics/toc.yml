@@ -48,9 +48,9 @@
       href: rn-production-schedule.md
     - name: "What's new in the release planner app"
       items: 
-      - name: 2021 Q5
+      - name: 2021 Q6
          items:
-        - name: April 2021 5
+        - name: April 2021 6
           items:
          - name: Feature Holdback plans
            href: rn-FeatureHoldbackplans.md
