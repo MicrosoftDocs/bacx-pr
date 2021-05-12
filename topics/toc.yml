@@ -49,7 +49,7 @@
     - name: "What's new in the release planner app"
       items: 
       - name: 2021 Q5
-         items:
+        items:
         - name: April 2021 5
           items:
          - name: Feature Holdback plans
