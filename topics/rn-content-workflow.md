@@ -1,21 +1,23 @@
 ---
-title: "Authoring process"
+title: "Workflow"
 ms.date: 08/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
-# Authoring process
+# Workflow
 
-Our **wave 2** release plans are created and updated in the Release Planner Tool and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*
+![Workflow](media/workflow.png "Workflow")
+
+<!--Our **wave 2** release plans are created and updated in the Release Planner Tool and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*-->
 
 
-## Release Planner Tool
+<!--## Release Planner Tool-->
 
 <!--Should they be called PMs, writers, or doc owners? -->
 
-To create or update release plans for wave 2 or later, **PMs** should work in the [Release Planner Tool](https://aka.ms/bagreleasenotes). 
+<!--To create or update release plans for wave 2 or later, **PMs** should work in the [Release Planner Tool](https://aka.ms/bagreleasenotes). 
 
 For guidance on using the tool, see these resources (available under Resources in the left navigation pane of the tool):
 - [BAG Release Planner App Guide](https://microsoft.sharepoint.com/:w:/t/ProjectBahnhof/EYBGZgE9Js5CioBE2LAIjSwBCgn_hvM9QtZ7gPimS85vkQ?rtime=RWW9laMl10g) 
@@ -34,6 +36,6 @@ For **PMs** still working on April '19 content: A best practice is to create you
 
 <!--this needs updating:
 
- [![Authoring process](media/rn-add-change-feature.png)](media/rn-add-change-feature.png)
+ [![Authoring process](media/rn-add-change-feature.png)](media/rn-add-change-feature.png)-->
  -->
 
