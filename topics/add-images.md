@@ -8,7 +8,7 @@ ms.author: "emcheachern"
 manager: "renwe"
 ---
 
-# Add images to the Release Notes App
+# Add images to the Release Notes App - testing
 
 Images are an important part of the release plans. They provide visual context for features and help the customer understand the benenfits and functions of our products. When you submit an image in the release planner app it will get uploaded to the Main branch for that particular repo. It's important to consider the following before you submit your images. 
 
