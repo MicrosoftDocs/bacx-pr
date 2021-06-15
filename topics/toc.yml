@@ -128,3 +128,19 @@
       href: tv-sample-scripts.md
   - name: Content Engineering requests
     href: content-engineering-requests.md
+  - name: Off-network guide for vendors
+    items: 
+    - name: Work off the network
+      href: off-network.md
+    - name: Back up files, mail, saved links
+      href: back-up-files.md
+    - name: Transition to new email
+      href: email-change.md
+    - name: Request guest access to GitHub repos
+      href: github-access.md
+    - name: Join Teams chats
+      href: team-chats.md
+    - name: Request access to restricted sites
+      href: access-sites.md
+    
+    
