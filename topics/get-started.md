@@ -60,6 +60,7 @@ These are the repos where we host our content:
 | Dynamics 365 AI                  | https://github.com/MicrosoftDocs/dynamics-365-ai-pr                    |
 | Dynamics 365 Hub                 | https://github.com/MicrosoftDocs/dynamics365hubpages                   |
 | Dynamics 365 Customer Engagement | <https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr> |
+| Dynamics 365 Finance, Supply Chain Management, Commerce | <https://github.com/MicrosoftDocs/Dynamics-365-Operations> |
 | Dynamics 365 Fraud Protection | <https://github.com/MicrosoftDocs/dynamics-365-fraud-protection-pr> |
 | Dynamics 365 Product Insights | <https://github.com/MicrosoftDocs/product-insights-pr> |
 | Dynamics 365 Release Plans | <https://github.com/MicrosoftDocs/dynamics365-releasenotes-pr> |
