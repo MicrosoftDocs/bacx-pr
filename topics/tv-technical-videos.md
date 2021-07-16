@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 06/11/2021
+ms.date: 06/25/2021
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
@@ -50,14 +50,60 @@ Here are some common things that cause redos:
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
 
+## Upload a video
+
+PMs: After you have created your video, you can upload it to RedTiger (Microsoft'video hosting platform) and/or to the offcial product's YouTube channel by using the intake form at <https://badeintake.azurewebsites.net/>
+
+### File requirements 
+
+You need to provide these 4 files for publishing on both platforms (YouTube and Red Tiger). 
+
+- Video file in .MP4 format. 
+- Caption file in .SRT format. 
+- Caption file in .TTML format. 
+- Audio description file in .MP3 format. 
+
+> [!NOTE] 
+> If you want to [embed videos in a docs article](#embed-a-video-in-docs), it must be uploaded to RedTiger.
+
+**For publishing only on YouTube** 
+
+- Video file in .MP4 format. 
+- Caption file in .SRT format. 
+
+**For publishing only on RedTiger**  
+- Video file in .MP4 format. 
+- Caption file in .TTML format. 
+- Audio description file in .MP3 format. 
+
+### Submitting videos to be uploaded to YouTube and RedTiger 
+
+Following information is required at the time of submitting the request to video publishing team along with the files as mentioned earlier: 
+
+- Video Title 
+
+- Video Description  Please provide a detailed description including 2-4 key points you want your audience to know about your video. 
+
+- Video tags/Keywords (SEO)  Provide keywords associated with your video including but not limited to Microsoft products, event names, speakers, industry keywords, product features, etc. 
+
+- Provide a clear CTA and URL/landing page for the viewer. Please do not include non-published CTA Links.
+
+You need to submit an intake form here: <https://badeintake.azurewebsites.net/>; select the **Social media and blog** > **YouTube/RedTiger** option. 
+
+![Upload video](media/upload-video.png)
+
+> [!NOTE]
+> Contact Abhinav Dhankar if you have any questions.
+
 ## Embed a video in docs
 
 After your video is uploaded to RedTiger, you get a link to your video on RedTiger. For example: https://www.microsoft.com/videoplayer/embed/{ID}.
-
-Please note due to accessibility issues, we embed only RedTiger links. We do not embed YouTube links.
 
 You can embed the video in your docs article by using the following markdown syntax:
 
 ```markdown
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/{ID}]
 ```
+
+> [!NOTE]
+> Due to accessibility issues, we embed only RedTiger links. We don't embed YouTube links.
